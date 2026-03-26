@@ -1,0 +1,15 @@
+__pycache__/*
+.DS_Store
+
+figures/
+*.nc
+*.w2l
+*.opt
+*.wrn
+*.err
+raw_data/
+wdo_output/
+snp_output/
+
+
+
